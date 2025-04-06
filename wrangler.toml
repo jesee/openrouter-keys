@@ -1,0 +1,7 @@
+name = "openrouter-keys"
+main = "src/worker.ts"
+compatibility_date = "2024-01-01"
+
+[vars]
+# You need to set this in the Cloudflare dashboard or via wrangler
+# OPENROUTER_API_KEY = "your-api-key" 
